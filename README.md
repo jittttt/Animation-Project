@@ -1,4 +1,4 @@
-# Animation_Project
+# Animation Project
 
 This is a simple animation projct written in Java where random lines are created in different sizes and sorted from shortest to longest. 
 
