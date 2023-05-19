@@ -10,8 +10,6 @@ public class SelectionSortComponent extends JComponent {
 		sorter = new SelectionSorter(values, this);
 	}
 
-	// 35
-	// 350
 	public void paintComponent(Graphics g) {
 		sorter.draw(g);
 	}
